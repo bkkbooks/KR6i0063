@@ -34,13 +34,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0063_000.yaml, hash: 'sha256:04db820e496bcbe2b969e8ece9fb44e3d11495c35ca5e37b63cc5640fe8ead0e'}
-  - {seq: 1, filename: KR6i0063_001.yaml, hash: 'sha256:c7f46dad33a9b92410b77f3a94c45780b1aec6553ec7db1876e2877a12903938'}
-  - {seq: 2, filename: KR6i0063_002.yaml, hash: 'sha256:8dbde051a531eb4bbf5117d389049f556c2deb7a65dd50777d13d25252fe966a'}
-  - {seq: 3, filename: KR6i0063_003.yaml, hash: 'sha256:834167b26d4c4d347d8f3c95670d821b98d38820bf4bc2fe1a7c51d02dbfc53c'}
+  - {seq: 1, filename: KR6i0063_001.yaml, hash: 'sha256:3cc4f6df84119709b8ec90e533eabae2ca016c6cf3035c19da9ac7286c32e704'}
+  - {seq: 2, filename: KR6i0063_002.yaml, hash: 'sha256:4d05f788b70433d277e93ca24556e1ebfdc6f5cf03bb84e775210f30a924dd12'}
+  - {seq: 3, filename: KR6i0063_003.yaml, hash: 'sha256:aa8bb95f18a8839ca71f4f3ba580c9e9f984a856c71bab302778505a6ecc66f6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0063_001.markers.yaml, hash: 'sha256:7849b7f2f1d41d3414cb08973f44f1a00b3d5008528837de4238958e665d6ccd'}
-  - {seq: 2, role: markers, filename: assets/KR6i0063_002.markers.yaml, hash: 'sha256:3451d17631a52564fd6b30ecdf9065bba7141dbdb924beef73934e86dd5ee5d6'}
-  - {seq: 3, role: markers, filename: assets/KR6i0063_003.markers.yaml, hash: 'sha256:35df9bb105b6e09bbea729cae370ac3d8e404158f951414c5481859169711a0d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0063_000.markers.yaml, hash: 'sha256:3343b8b2aff0b5a03d9cc3c7f1a04b3f3b7a53c103f96571ccfda80a85ba5ec6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0063_001.markers.yaml, hash: 'sha256:29fbae05423b546e4744d86dce8dccd8e3d87a2662d726c0626e0753585bc459'}
+  - {seq: 2, role: markers, filename: assets/KR6i0063_002.markers.yaml, hash: 'sha256:c3fcc2614306a0c397735d57a6793df88846660a8f2045eb55c9f46c09a2762b'}
+  - {seq: 3, role: markers, filename: assets/KR6i0063_003.markers.yaml, hash: 'sha256:2fa8f42ddc0a435bfff2c16ebb788fca8333be7ba80166231915e30207b05dee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -72,7 +73,4 @@ table_of_contents:
   label: 大方廣寶篋經卷下
   type: juan
   level: 1
-hash: sha256:4509f74e65224b1fcb162b7f93e61cf0b5ef59949a3be4cb0ca711116eb64d12
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c8e5a765e356ff2ee79003f37cec5fd3e5bbcda83d3ca9be730390135a2d187b
